@@ -37,8 +37,7 @@ These are included in the repository.
 
 Due to GitHub's 100MB file limit, the trained BERT model is hosted externally.
 
-👉 **[Click here to download the trained model (Google Drive)]([https://drive.google.com/YOUR_MODEL_LINK](https://drive.google.com/drive/folders/1wO1vjVn8gJagZQ1P-eJcL-Mc8doxeBVe?usp=drive_link))**  
-*(Replace the above link with your actual Google Drive model link.)*
+👉 **[Click here to download the trained model (Google Drive)]**(https://drive.google.com/drive/folders/1wO1vjVn8gJagZQ1P-eJcL-Mc8doxeBVe?usp=drive_link
 
 ### After downloading:
 1. Extract `saved_fake_news_model.zip`
